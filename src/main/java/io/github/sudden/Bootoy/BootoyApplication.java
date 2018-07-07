@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BootoyApplication {
 
 	public static void main(String[] args) {
-		System.out.println("master");
+		System.out.println("dev");
 		SpringApplication.run(BootoyApplication.class, args);
 	}
 }
