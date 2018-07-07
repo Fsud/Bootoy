@@ -9,8 +9,8 @@
 	<packaging>jar</packaging>
 
 	<name>Bootoy</name>
-	<description>Demo project for Spring Boot my</description>
-
+	<description>Demo project for Spring Boot my 5</description>
+    <!-- 6-->
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
